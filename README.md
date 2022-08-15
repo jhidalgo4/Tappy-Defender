@@ -11,6 +11,7 @@ Built Front-end Android mobile app in Java that allows spaceship to travel throu
 
 
 ### User Stories
-[X] Video game uses multi-threading to increase performance of characters moving through space and play sounds/noises upon crashing objects
-[X] Video game displays how long user has been alive in seconds as well as final score at the end of each game
+[x ] Video game uses multi-threading to increase performance of characters moving through space and play sounds/noises upon crashing objects
+
+[x ] Video game displays how long user has been alive in seconds as well as final score at the end of each game
 
